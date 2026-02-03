@@ -1,4 +1,4 @@
- align="center">Hi 👋, I'm Mohamed Ramadan</h1>
+Hi 👋, I'm Mohamed Ramadan</h1>
 <h3 align="center">Flutter Developer Passionate About Cross-Platform Apps & UI/UX</h3>
 
 <h3 align="left">Connect with me:</h3>
